@@ -1,0 +1,8 @@
+<ClientConfig>
+	<GameClient name="Playa Template V2 WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="PlayaIwTemplate" enableFreeSpin="Y" clientversion="1.0" gameId="300-9025-0" />
+	<GameClient name="Playa Template V2 WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="PlayaIwTemplate" enableFreeSpin="Y" clientversion="1.0" gameId="300-9025-0" />
+	<GameClient name="Playa Template V2 WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="PlayaIwTemplate" enableFreeSpin="Y" clientversion="1.0" gameId="300-9025-0" />
+
+	<GameClient name="Playa Template V2 WLA" clientCode="tabletmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="PlayaIwTemplate" enableFreeSpin="Y" clientversion="1.0" gameId="300-9025-0" />
+	<GameClient name="Playa Template V2 WLA" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="PlayaIwTemplate" enableFreeSpin="Y" clientversion="1.0" gameId="300-9025-0" />
+</ClientConfig>
